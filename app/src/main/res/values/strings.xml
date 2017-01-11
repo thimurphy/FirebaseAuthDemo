@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseAuthDemo</string>
+    <string name="editTextEmailMsg">Enter your email</string>
+    <string name="editTextPasswordMsg">Enter your password</string>
+    <string name="sign_up_now">Register Now</string>
+    <string name="already_registered_sign_in_here">Already registered? Sign in here</string>
+</resources>
